@@ -7,7 +7,7 @@ My personal Claude Code skills for the docs I write. Claude follows them when it
 | `wdocs-roadmap` | Roadmap page | Which workstreams, in what order, judged by what |
 | `wdocs-poc` | PoC doc | Does this work? (hypothesis, success and kill criteria, live progress, verdict) |
 | `wdocs-prd` | PRD | What to build and why |
-| `wdocs-design` | Design Doc | How to build it (links the PRD, does not repeat it) |
+| `wdocs-design` | Design Doc | How to build it |
 
 The docs are in Korean. `shared/style.md` has the shared style rules, and `shared/check_style.py --kind <roadmap|poc|prd|design>` checks them.
 

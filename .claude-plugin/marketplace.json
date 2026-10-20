@@ -1,0 +1,14 @@
+{
+  "name": "wdocs",
+  "owner": {
+    "name": "rollo231"
+  },
+  "plugins": [
+    {
+      "name": "wdocs",
+      "source": "./",
+      "description": "Korean team documents for Claude Code: roadmap, PoC doc, PRD and Design Doc."
+    }
+  ],
+  "description": "wdocs: Korean team documents (roadmap, PoC, PRD, Design Doc) for Claude Code."
+}

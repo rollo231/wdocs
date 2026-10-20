@@ -1,6 +1,6 @@
 # wdocs
 
-A Claude Code plugin for the Korean team documents I actually write at work. Claude follows these skills when it writes or updates a document; the shared checker keeps the plain-sentence style.
+My personal Claude Code skills for the docs I write. Claude follows them when it writes or updates a document.
 
 | Skill | Document | Answers |
 |---|---|---|
@@ -9,7 +9,7 @@ A Claude Code plugin for the Korean team documents I actually write at work. Cla
 | `wdocs-prd` | PRD | What to build and why |
 | `wdocs-design` | Design Doc | How to build it (links the PRD, does not repeat it) |
 
-Documents are written in Korean. `shared/style.md` holds the common style rules and `shared/check_style.py --kind <roadmap|poc|prd|design>` checks them.
+The docs are in Korean. `shared/style.md` has the shared style rules, and `shared/check_style.py --kind <roadmap|poc|prd|design>` checks them.
 
 ## Install
 

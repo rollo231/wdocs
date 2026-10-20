@@ -1,15 +1,14 @@
 {
   "name": "wdocs",
   "version": "0.1.0",
-  "description": "Korean team documents for Claude Code: roadmap, PoC doc, PRD and Design Doc, with one shared plain-sentence style and a style checker.",
+  "description": "Personal Claude Code skills I use for writing docs: roadmap, PoC, PRD and Design Doc.",
   "license": "MIT",
   "keywords": [
     "docs",
     "prd",
     "design-doc",
     "poc",
-    "roadmap",
-    "korean"
+    "roadmap"
   ],
   "author": {
     "name": "rollo231"

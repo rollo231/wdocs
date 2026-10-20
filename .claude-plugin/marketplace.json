@@ -7,8 +7,8 @@
     {
       "name": "wdocs",
       "source": "./",
-      "description": "Korean team documents for Claude Code: roadmap, PoC doc, PRD and Design Doc."
+      "description": "Personal Claude Code skills I use for writing docs: roadmap, PoC, PRD and Design Doc."
     }
   ],
-  "description": "wdocs: Korean team documents (roadmap, PoC, PRD, Design Doc) for Claude Code."
+  "description": "Personal Claude Code skills I use for writing docs: roadmap, PoC, PRD and Design Doc."
 }
